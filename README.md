@@ -5,6 +5,7 @@ Prepared by: Ersan Ergin 052100000667@ogrenci.ege.edu.tr - Barışcan İlter 052
 Implementing on Python
 # PGP Simulation for Securing E-mail System in Python
 This project simulates secure e-mail transmission between sender and receiver using PGP(Pretty Good Privacy) methods over TCP connection.
+
 It contains hashing, digital signature, compressing - decompressing, encryption - decryption, Base64 encoding - decoding and verification of message using pycryptodome and zlib libraries in Python.
 ## Project Overview
 Insecure email communication is one of the biggest problems in today’s interconnected digital world. This project implements a PGP based secure e-mail system that performs the following operations:
