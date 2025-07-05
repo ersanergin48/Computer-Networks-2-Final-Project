@@ -37,6 +37,7 @@ Insecure email communication is one of the biggest problems in today’s interco
 ## Compilation
 # Generating Sender and Receiver Keys Compilation
 python generate_sender_keys_pgp.py
+
 python generate_sender_keys_pgp.py
 # Sender Compilation
 python sender_pgp.py
