@@ -1,5 +1,6 @@
 EGE University EEE 2024-25 Computer Networks 2 Final Project - PGP SIMULATION FOR SECURING EMAIL SYSTEM
 Prepared by: Ersan Ergin 052100000667@ogrenci.ege.edu.tr - Barışcan İlter 052000000485@ogrenci.ege.edu.tr
+
 Implementing on Python
 # PGP Simulation for Securing E-mail System in Python
 This project simulates secure e-mail transmission between sender and receiver using PGP(Pretty Good Privacy) methods over TCP connection.
